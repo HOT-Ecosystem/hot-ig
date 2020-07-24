@@ -1,0 +1,21 @@
+id: org.hotecosystem.fhir.hot
+canonical: http://hotecosystem.org/fhir/hot
+name: HOT-FHIR
+status: active
+version: 0.0.1
+fhirVersion: 4.0.1
+copyrightYear: 2020+
+releaseLabel: Build CI
+publisher:
+  name: HOT Ecosystem
+  url: http://hotecosystem.org
+template: fhir.base.template#0.1.0
+
+menu:
+  Home: index.html
+  Artifacts: artifacts.html
+
+parameters:
+  apply-contact: true
+  apply-jurisdiction: true
+  apply-publisher: true
