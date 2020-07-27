@@ -12,6 +12,8 @@ Extension:      HotTSName
 Id:             hot-ts-name
 Title:          "HOT Terminology Service Name Extension"
 Description:    "A str representing the name of the terminology service "
+* value[x] only string
+
 
 Extension:      HotTSType
 Id:             hot-ts-type
